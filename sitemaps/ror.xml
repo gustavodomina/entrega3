@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://gustavodomina.github.io/examen2/</title>
+  <link>https://gustavodomina.github.io/examen2/</link>
+
+<item>
+     <link>https://gustavodomina.github.io/examen2/</link>
+     <title>gdsi.ar</title>
+     <description>gdsi.ar</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gustavodomina.github.io/examen2/index.html</link>
+     <title>gdsi.ar</title>
+     <description>gdsi.ar</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gustavodomina.github.io/examen2/pages/acerca.html</link>
+     <title>gdsi.ar - a carousel-indicators</title>
+     <description>gdsi.ar - a carousel-indicators</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gustavodomina.github.io/examen2/pages/portfolio.html</link>
+     <title>gdsi.ar - Portfolio </title>
+     <description>gdsi.ar - Portfolio </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gustavodomina.github.io/examen2/pages/formacion.html</link>
+     <title>gdsi.ar - Servicios </title>
+     <description>gdsi.ar - Servicios </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gustavodomina.github.io/examen2/pages/servicios.html</link>
+     <title>gdsi.ar - Servicios </title>
+     <description>gdsi.ar - Servicios </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gustavodomina.github.io/examen2/pages/contact.html</link>
+     <title>gdsi.ar - Conctacto</title>
+     <description>gdsi.ar - Conctacto</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

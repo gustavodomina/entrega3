@@ -1,0 +1,23 @@
+Modificaciones segun sugerenciasl de tutor
+1-) corrigio ubicacion del css personal
+2-) Solo se abre en blank la pagiana contacto mientras que las demas los hacen en self
+3-) se limpia el codigo de los comentario innecesarios
+4-) se identa todas las paginas ( utilizo visual studio code - 
+                                  activado Format on Save lo que produce la auto identacion 
+                                  automatica al guardar el codigo).
+5-) se agrega @media en css style.css
+6-) SEO y Buenas practicas - clase 15
+        -> en idex se agregan las etiquetas meta
+        -> en paginas de nivel 2 se agregan metas personalizadas por pagina 
+        -> un sitemap utilizando bootstrap Modal y css
+        -> Buenas practivas se agregan los 
+7-) Utilizando bootstrap se agregan animaciones al navbar sobre hover de los link cambian de color
+    portfolio utilizando AOS se da animacion a las imagenes.
+8-) scss
+    no pude integrar scss al proyecto he tenido inconvenientes.
+
+
+
+
+
+    
