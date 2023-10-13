@@ -13,11 +13,10 @@ Modificaciones segun sugerenciasl de tutor
         -> Buenas practivas se agregan los 
 7-) Utilizando bootstrap se agregan animaciones al navbar sobre hover de los link cambian de color
     portfolio utilizando AOS se da animacion a las imagenes.
-8-) scss
-    no pude integrar scss al proyecto he tenido inconvenientes.
 
 
 
 
+tercer prenetrega lin en clase 15
 
     
